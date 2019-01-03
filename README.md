@@ -10,10 +10,8 @@
 * [分布式架构](https://github.com/johnnian/Blog/projects/2)
 * [数据库](https://github.com/johnnian/Blog/projects/3)
 * [开发工具](https://github.com/johnnian/Blog/projects/4)
-* [客户端Apps](https://github.com/johnnian/Blog/projects/5)
 * [读书笔记](https://github.com/johnnian/Blog/projects/6)
-* [Linux & Docker](https://github.com/johnnian/Blog/projects/7)
-* [大数据技术](https://github.com/johnnian/Blog/projects/8)
+* [go语言基础]
 
 ### 主要系列文章
 
