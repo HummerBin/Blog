@@ -6,7 +6,7 @@
 
 博客主要划分为下面几大类别：
 
-* [go语言基础](https://github.com/johnnian/Blog/projects/6)
+* [go语言基础](https://github.com/HummerBin/Blog/projects/1)
 
 ### 主要系列文章
 
