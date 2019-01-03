@@ -10,11 +10,7 @@
 
 ### 主要系列文章
 
-**1、SpringBoot**
-
-- [SpringBoot系列之—Web开发实战](https://github.com/johnnian/Blog/issues/39)
-- [SpringBoot系列之—瘦身部署](https://github.com/johnnian/Blog/issues/41)
-- [SpringBoot系列之—日志打印的问题(经验总结)](https://github.com/johnnian/Blog/issues/42)
+**1、**
 
 
 ### 关于我
